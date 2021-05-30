@@ -1,0 +1,5 @@
+.cache
+*.bin
+*.spiece
+__pycache__
+*.zip
